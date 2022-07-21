@@ -1,46 +1,44 @@
 export const projects = [
   {
-    title: "Quizzica App",
+    title: "Quizzical App",
     subtitle: "React and TypeScript",
     link: "https://quizicca-app.vercel.app/",
-    image: "https://i.imgur.com/DbVmyFt.png",
+    image: "https://i.imgur.com/fQlercS.png",
     description:
-      "A simple Quiz Application that get 5 random questions from Open Tria Via Database api",
+      "A Quiz Application that gets 5 random questions from OTDB",
   },
   {
-    title: "Quizzica App",
-    subtitle: "React and TypeScript",
-    link: "https://quizicca-app.vercel.app/",
-    image: "https://i.imgur.com/DbVmyFt.png",
-    description:
-      "A simple Quiz Application that get 5 random questions from Open Tria Via Database api",
+    title: "Drum Machine",
+    subtitle: "ReactJS and Redux",
+    link: "https://codepen.io/williamhan/pen/BarQavJ?editors=0111",
+    image: "https://i.imgur.com/3AlscPT.png",
+    description: "Playing Drum Machine via Typing or Clicking the Keys",
   },
   {
-    title: "Quizzica App",
-    subtitle: "React and TypeScript",
-    link: "https://quizicca-app.vercel.app/",
-    image: "https://i.imgur.com/DbVmyFt.png",
+    title: "Javascript Calculator",
+    subtitle: "ReactJS and Redux",
+    link: "https://codepen.io/williamhan/full/poLbrJo",
+    image: "https://i.imgur.com/XXIJOea.png",
     description:
-      "A simple Quiz Application that get 5 random questions from Open Tria Via Database api",
+      "A fully functional Calculator that can do basic operators like +-/*",
   },
   {
-    title: "Quizzica App",
-    subtitle: "React and TypeScript",
-    link: "https://quizicca-app.vercel.app/",
-    image: "https://i.imgur.com/DbVmyFt.png",
-    description:
-      "A simple Quiz Application that get 5 random questions from Open Tria Via Database api",
+    title: "25 + 5 Clock",
+    subtitle: "React and Redux",
+    link: "https://codepen.io/williamhan/full/OJvROVp",
+    image: "https://i.imgur.com/d36tunP.png",
+    description: "A simple 25 + 5 Clock that can use during study or work.",
   },
 ];
 
 export const skills = [
   "HTML",
   "CSS",
-  "Javascript",
-  "Typescript",
+  "JavaScript",
+  "TypeScript",
   "ReactJS",
   "Redux",
-  "Nodejs",
+  "NodeJS",
   "MongoDB",
   "PostgreSQL",
   "MySQL",
