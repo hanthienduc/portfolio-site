@@ -10,7 +10,8 @@ export default function About() {
             <br className="hidden lg:inline-block" /> A Full-Stack Web Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-          Passionate in developing web application, and have a strong ability to adopt new tools and technologies.
+            Passionate in Developing Web applications, and have strong ability
+            to adopt new tools and technologies.
           </p>
           <div className="flex justify-center mt-1">
             <a
