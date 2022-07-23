@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "ReactJS and Redux",
     link: "https://codepen.io/williamhan/pen/BarQavJ?editors=0111",
     image: "https://i.imgur.com/3AlscPT.png",
-    description: "Playing Drum Machine via Typing or Clicking the Keys",
+    description: "Playing Drum Machine via Typing the keys or Clicking the Key icon on the screen",
   },
   {
     title: "Javascript Calculator",
@@ -28,6 +28,13 @@ export const projects = [
     link: "https://codepen.io/williamhan/full/OJvROVp",
     image: "https://i.imgur.com/d36tunP.png",
     description: "A simple 25 + 5 Clock that can use during study or work.",
+  },
+  {
+    title: "Password Protected File Sharing",
+    subtitle: "MongoDB + React + NodeJS + Express",
+    link: "https://github.com/hanthienduc/file-sharing-both",
+    image: "https://i.imgur.com/QvoceBd.png",
+    description: "A Password Protected File Sharing Application where can Upload and Share you files.",
   },
 ];
 
