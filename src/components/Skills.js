@@ -10,8 +10,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Below are my skills I have accumulated in past 1.5+ years learning
-            and working in Web Development Industries
+          Below are the skills I have accumulated in the past 1.5+ years of learning and working in the Web Development Industry.
           </p>
         </div>
         <div className="flex flex-wrap lg:4/5 sm:mx-auto sm:mb-2 -mx-2">
