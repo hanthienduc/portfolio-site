@@ -30,6 +30,13 @@ export const projects = [
     description: "A simple 25 + 5 Clock that can use during study or work.",
   },
   {
+    title: "Healthy",
+    subtitle: "ReactJS + React ChartJS",
+    link: "https://healthapp-tau.vercel.app/",
+    image: "https://i.imgur.com/OPuUMPw.png",
+    description: "A Health Application front-end app tracking your diets, exercises and diaries",
+  },
+  {
     title: "Password Protected File Sharing",
     subtitle: "MongoDB + React + NodeJS + Express",
     link: "https://github.com/hanthienduc/file-sharing-both",
