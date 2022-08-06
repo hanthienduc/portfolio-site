@@ -1,11 +1,25 @@
 export const projects = [
   {
+    title: "My Library",
+    subtitle: "MongoDB + React TypeScript + NodeJS + Express",
+    link: "https://github.com/hanthienduc/ts-react-my-library-front",
+    image: "https://i.imgur.com/75fVVmq.png",
+    description: "My Personal Library, Display all my favorite books and authors ",
+  },
+  {
     title: "Quizzical App",
     subtitle: "React and TypeScript",
     link: "https://quizicca-app.vercel.app/",
     image: "https://i.imgur.com/fQlercS.png",
     description:
       "A Quiz Application that gets 5 random questions from OTDB",
+  },
+  {
+    title: "Healthy",
+    subtitle: "ReactJS + React ChartJS",
+    link: "https://healthapp-tau.vercel.app/",
+    image: "https://i.imgur.com/OPuUMPw.png",
+    description: "A Health Application front-end app tracking your diets, exercises and diaries",
   },
   {
     title: "Drum Machine",
@@ -29,20 +43,7 @@ export const projects = [
     image: "https://i.imgur.com/d36tunP.png",
     description: "A simple 25 + 5 Clock that can use during study or work.",
   },
-  {
-    title: "Healthy",
-    subtitle: "ReactJS + React ChartJS",
-    link: "https://healthapp-tau.vercel.app/",
-    image: "https://i.imgur.com/OPuUMPw.png",
-    description: "A Health Application front-end app tracking your diets, exercises and diaries",
-  },
-  {
-    title: "My Library",
-    subtitle: "MongoDB + React TypeScript + NodeJS + Express",
-    link: "https://github.com/hanthienduc/ts-react-my-library-front",
-    image: "https://i.imgur.com/75fVVmq.png",
-    description: "My Personal Library, Display all my favorite books and authors ",
-  },
+  
 ];
 
 export const skills = [
@@ -56,6 +57,4 @@ export const skills = [
   "MongoDB",
   "PostgreSQL",
   "MySQL",
-  "Python",
-  "Django",
 ];
