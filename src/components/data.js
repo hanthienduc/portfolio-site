@@ -37,11 +37,11 @@ export const projects = [
     description: "A Health Application front-end app tracking your diets, exercises and diaries",
   },
   {
-    title: "Password Protected File Sharing",
-    subtitle: "MongoDB + React + NodeJS + Express",
-    link: "https://github.com/hanthienduc/file-sharing-both",
-    image: "https://i.imgur.com/QvoceBd.png",
-    description: "A Password Protected File Sharing Application where can Upload and Share you files.",
+    title: "My Library",
+    subtitle: "MongoDB + React TypeScript + NodeJS + Express",
+    link: "https://github.com/hanthienduc/ts-react-my-library-front",
+    image: "https://i.imgur.com/75fVVmq.png",
+    description: "My Personal Library, Display all my favorite books and authors ",
   },
 ];
 
