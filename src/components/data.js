@@ -9,7 +9,7 @@ export const projects = [
   {
     title: "Quizzical App",
     subtitle: "React and TypeScript",
-    link: "https://quizicca-app.vercel.app/",
+    link: "https://github.com/hanthienduc/quizicca-app",
     image: "https://i.imgur.com/fQlercS.png",
     description:
       "A Quiz Application that gets 5 random questions from OTDB",
