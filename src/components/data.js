@@ -29,20 +29,20 @@ export const projects = [
     description: "A Shopping Cart build with TypeScript, ReactJS, ContextAPI ",
   },
   {
-    title: "Javascript Calculator",
-    subtitle: "ReactJS and Redux",
-    link: "https://codepen.io/williamhan/full/poLbrJo",
-    image: "https://i.imgur.com/XXIJOea.png",
-    description:
-      "A fully functional Calculator that can do basic operators like +-/*",
-  },
-  {
     title: "25 + 5 Clock",
-    subtitle: "React and Redux",
+    subtitle: "ReactJS and Redux",
     link: "https://codepen.io/williamhan/full/OJvROVp",
     image: "https://i.imgur.com/d36tunP.png",
     description: "A simple 25 + 5 Clock that can use during study or work.",
   },
+  {
+    title: "Pic Some",
+    subtitle: "ReactJS and ContextAPI",
+    link: "https://github.com/hanthienduc/pic-some",
+    image: "https://i.imgur.com/a3nI5vq.png",
+    description: "A simple app where you can purchase images of nature",
+  },
+
   
 ];
 
