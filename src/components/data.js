@@ -40,7 +40,7 @@ export const projects = [
     subtitle: "ReactJS and ContextAPI",
     link: "https://github.com/hanthienduc/pic-some",
     image: "https://i.imgur.com/a3nI5vq.png",
-    description: "A simple app where you can purchase images of nature",
+    description: "A simple app where you can purchase images of nature or add to your favorite for future reference",
   },
 
 
