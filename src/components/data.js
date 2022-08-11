@@ -22,11 +22,11 @@ export const projects = [
     description: "A Health Application front-end app tracking your diets, exercises and diaries",
   },
   {
-    title: "Drum Machine",
-    subtitle: "ReactJS and Redux",
-    link: "https://codepen.io/williamhan/pen/BarQavJ?editors=0111",
-    image: "https://i.imgur.com/3AlscPT.png",
-    description: "Playing Drum Machine via Typing the keys or Clicking the Key icon on the screen",
+    title: "Shopping Cart",
+    subtitle: "ReactJS and TypeScript",
+    link: "https://github.com/hanthienduc/ts-react-advanced-shopping-cart",
+    image: "https://github.com/hanthienduc/ts-react-advanced-shopping-cart/blob/main/src/assets/ts-react-advanced-shopping-cart.png",
+    description: "A Shopping Cart build with TypeScript, ReactJS, ContextAPI ",
   },
   {
     title: "Javascript Calculator",
