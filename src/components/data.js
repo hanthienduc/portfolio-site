@@ -25,7 +25,7 @@ export const projects = [
     title: "Shopping Cart",
     subtitle: "ReactJS and TypeScript",
     link: "https://github.com/hanthienduc/ts-react-advanced-shopping-cart",
-    image: "https://github.com/hanthienduc/ts-react-advanced-shopping-cart/blob/main/src/assets/ts-react-advanced-shopping-cart.png",
+    image: "https://i.imgur.com/4aqTc97.png",
     description: "A Shopping Cart build with TypeScript, ReactJS, ContextAPI ",
   },
   {
@@ -43,12 +43,11 @@ export const projects = [
     description: "A simple app where you can purchase images of nature",
   },
 
-  
+
 ];
 
 export const skills = [
-  "HTML",
-  "CSS",
+  "HTML & CSS",
   "JavaScript",
   "TypeScript",
   "ReactJS",
@@ -56,5 +55,4 @@ export const skills = [
   "NodeJS",
   "MongoDB",
   "PostgreSQL",
-  "MySQL",
 ];
