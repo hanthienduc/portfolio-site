@@ -7,6 +7,20 @@ export const projects = [
     description: "My Personal Library, Display all my favorite books and authors ",
   },
   {
+    title: "Shopping Cart",
+    subtitle: "ReactJS and TypeScript",
+    link: "https://github.com/hanthienduc/ts-react-advanced-shopping-cart",
+    image: "https://i.imgur.com/4aqTc97.png",
+    description: "A Shopping Cart build with TypeScript, ReactJS, ContextAPI ",
+  },
+  {
+    title: "Pic Some",
+    subtitle: "ReactJS and ContextAPI",
+    link: "https://github.com/hanthienduc/pic-some",
+    image: "https://i.imgur.com/a3nI5vq.png",
+    description: "A simple app where you can purchase images of nature or add to your favorite for future reference",
+  },
+  {
     title: "Quizzical App",
     subtitle: "React and TypeScript",
     link: "https://github.com/hanthienduc/quizicca-app",
@@ -22,27 +36,12 @@ export const projects = [
     description: "A Health Application front-end app tracking your diets, exercises and diaries",
   },
   {
-    title: "Shopping Cart",
-    subtitle: "ReactJS and TypeScript",
-    link: "https://github.com/hanthienduc/ts-react-advanced-shopping-cart",
-    image: "https://i.imgur.com/4aqTc97.png",
-    description: "A Shopping Cart build with TypeScript, ReactJS, ContextAPI ",
-  },
-  {
     title: "25 + 5 Clock",
     subtitle: "ReactJS and Redux",
     link: "https://codepen.io/williamhan/full/OJvROVp",
     image: "https://i.imgur.com/d36tunP.png",
     description: "A simple 25 + 5 Clock that can use during study or work.",
   },
-  {
-    title: "Pic Some",
-    subtitle: "ReactJS and ContextAPI",
-    link: "https://github.com/hanthienduc/pic-some",
-    image: "https://i.imgur.com/a3nI5vq.png",
-    description: "A simple app where you can purchase images of nature or add to your favorite for future reference",
-  },
-
 
 ];
 
