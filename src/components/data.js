@@ -1,57 +1,40 @@
 export const projects = [
   {
     title: "My Library",
-    subtitle: "MongoDB + React TypeScript + NodeJS + Express",
+    subtitle: "MongoDB + React + TypeScript + NodeJS + Express",
     link: "https://github.com/hanthienduc/ts-react-my-library-front",
     image: "https://i.imgur.com/75fVVmq.png",
     description: "My Personal Library, Display all my favorite books and authors ",
   },
   {
     title: "Shopping Cart",
-    subtitle: "ReactJS and TypeScript",
+    subtitle: "ReactJS + TypeScript + ContextAPI",
     link: "https://github.com/hanthienduc/ts-react-advanced-shopping-cart",
     image: "https://i.imgur.com/4aqTc97.png",
     description: "A Shopping Cart build with TypeScript, ReactJS, ContextAPI ",
   },
   {
-    title: "Pic Some",
-    subtitle: "ReactJS and ContextAPI",
-    link: "https://github.com/hanthienduc/pic-some",
-    image: "https://i.imgur.com/a3nI5vq.png",
-    description: "A simple app where you can purchase images of nature or add to your favorite for future reference",
-  },
-  {
     title: "Quizzical App",
-    subtitle: "React and TypeScript",
+    subtitle: "ReactJS + TypeScript",
     link: "https://github.com/hanthienduc/quizicca-app",
     image: "https://i.imgur.com/fQlercS.png",
     description:
       "A Quiz Application that gets 5 random questions from OTDB",
   },
   {
-    title: "Healthy",
-    subtitle: "ReactJS + React ChartJS",
-    link: "https://healthapp-tau.vercel.app/",
-    image: "https://i.imgur.com/OPuUMPw.png",
-    description: "A Health Application front-end app tracking your diets, exercises and diaries",
+    title: "Reddit Comment",
+    subtitle: "ReactJS + ContextAPI",
+    link: "https://github.com/hanthienduc/react-prisma-blog",
+    image: "https://i.imgur.com/0j0JpOF.png",
+    description: "Nested comment like reddit, built with ReactJS, Prisma, PostgreSQL, and ContextAPI",
   },
-  {
-    title: "25 + 5 Clock",
-    subtitle: "ReactJS and Redux",
-    link: "https://codepen.io/williamhan/full/OJvROVp",
-    image: "https://i.imgur.com/d36tunP.png",
-    description: "A simple 25 + 5 Clock that can use during study or work.",
-  },
-
 ];
 
 export const skills = [
   "HTML & CSS",
   "JavaScript",
   "TypeScript",
-  "ReactJS",
-  "Redux",
-  "NodeJS",
-  "MongoDB",
-  "PostgreSQL",
+  "ReactJS | Redux | ContextAPI",
+  "NodeJS | Express | Fastify",
+  "MongoDB | PostgreSQL",
 ];
