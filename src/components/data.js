@@ -23,8 +23,8 @@ export const projects = [
   },
   {
     title: "Reddit Comment",
-    subtitle: "ReactJS + ContextAPI",
-    link: "https://github.com/hanthienduc/react-prisma-blog",
+    subtitle: "ReactJS + TypeScript + ContextAPI",
+    link: "https://github.com/hanthienduc/react-nested-comments",
     image: "https://i.imgur.com/0j0JpOF.png",
     description: "Nested comment like reddit, built with ReactJS, Prisma, PostgreSQL, and ContextAPI",
   },
