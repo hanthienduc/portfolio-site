@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "My Library",
-    subtitle: "MongoDB + React + TypeScript + NodeJS + Express",
+    subtitle: "React + TypeScript + ContextAPI",
     link: "https://github.com/hanthienduc/react-my-library",
     image: "https://i.imgur.com/75fVVmq.png",
     description: "My Personal Library, Display all my favorite books and authors ",
