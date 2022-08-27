@@ -34,7 +34,8 @@ export const skills = [
   "HTML & CSS",
   "JavaScript",
   "TypeScript",
-  "ReactJS | Redux | ContextAPI",
+  "ReactJS | ReduxJS | NextJS",
+  "VueJS | NuxtJS",
   "NodeJS | Express | Fastify",
   "MongoDB | PostgreSQL",
 ];

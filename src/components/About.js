@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> A Front-End Web Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-            A Life long learner, passionate in Web Development, especially <strong>front-end development</strong>, in my free time i like to read tech blogs, explore new tools and technologies, and  a big believer in the best way of learning is by doing.
+            A Life long learner, passionate in Web Development, especially <strong>front-end development</strong>, in my free time i like to read tech blogs, explore new tools and coding. 
           </p>
           <div className="flex justify-center mt-1 flex-wrap gap-2">
             <a
