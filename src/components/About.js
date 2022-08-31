@@ -25,15 +25,6 @@ export default function About() {
             >
               See My Work
             </a>
-
-            <a
-              href="https://docs.google.com/document/d/173uqJVlqff2acjn9K7t-qGw3aCu3MY_sEd3UQieWOfQ/edit"
-              className="ml-4 inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Download Resume
-            </a>
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
