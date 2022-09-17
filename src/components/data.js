@@ -14,12 +14,12 @@ export const projects = [
     description: "A Shopping Cart build with TypeScript, ReactJS, ContextAPI ",
   },
   {
-    title: "Quizzical App",
-    subtitle: "ReactJS + TypeScript",
-    link: "https://github.com/hanthienduc/react-quiziccal-app",
-    image: "https://i.imgur.com/fQlercS.png",
+    title: "Netflix Clone",
+    subtitle: "NextJS + Firebase + TailwindCSS",
+    link: "https://github.com/hanthienduc/suntv",
+    image: "https://i.imgur.com/0yBdoQF.jpg",
     description:
-      "A Quiz Application that gets 5 random questions from OTDB",
+      "A Netflix Clone application, discover popular Movies and TV Shows",
   },
   {
     title: "Reddit Comment",
