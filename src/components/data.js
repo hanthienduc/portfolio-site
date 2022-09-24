@@ -8,7 +8,7 @@ export const projects = [
       "A Netflix Clone application, discover popular Movies and TV Shows",
   },
   {
-    title: "Spotify Clone",
+    title: "Lyriks",
     subtitle: "React + Redux + TailwindCSS",
     link: "https://github.com/hanthienduc/lyriks",
     image: "https://i.imgur.com/xFqFrd7.png",
